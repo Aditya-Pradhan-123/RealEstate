@@ -1481,6 +1481,7 @@
     flex-direction: column;
     justify-content: center;
     position: relative;
+    margin-top: 2em;
   }
   .destination .background-image{
     width: 100%;
