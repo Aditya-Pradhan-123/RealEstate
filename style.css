@@ -1633,6 +1633,10 @@
     margin-top: 2em;
     overflow-x: auto;
   }
+  
+   .consult-container::-webkit-scrollbar{
+    display:none;
+  }
   .consult-container .news{
     min-width: 80%;
     margin-right: 2em;
